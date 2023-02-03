@@ -1,0 +1,2 @@
+# MergifyTest
+Testing out Mergify
